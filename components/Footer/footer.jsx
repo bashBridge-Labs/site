@@ -1,7 +1,7 @@
 import React from 'react'
 import ItemsContainer from "./ItemsContainer";
-import SocialIcons from "./SocialIcons";
-import { Icons } from "./Menus";
+// import SocialIcons from "./SocialIcons";
+// import { Icons } from "./Menus";
 
 export default function footer() {
   return (
@@ -28,7 +28,7 @@ export default function footer() {
       >
         <span>© 2024 BashBridge. All rights reserved.</span>
         <span>Terms · Privacy Policy</span>
-        <SocialIcons Icons={Icons} />
+        {/* <SocialIcons Icons={Icons} /> */}
       </div>
     </footer>
   )
