@@ -10,7 +10,8 @@ const SocialIcons = ({ Icons }) => {
         rounded-full bg-gray-700 mx-1.5 text-xl hover:text-gray-100 hover:bg-teal-500
         duration-300 "
         >
-          <ion-icon name={icon.name}></ion-icon>
+          {/* <ion-icon name={icon.name}></ion-icon> */}
+          {icon.name}
         
         </span>
       ))}
