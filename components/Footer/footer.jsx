@@ -1,4 +1,3 @@
-import React from 'react'
 import ItemsContainer from "./ItemsContainer";
 // import SocialIcons from "./SocialIcons";
 // import { Icons } from "./Menus";
