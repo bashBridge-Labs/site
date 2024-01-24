@@ -3,7 +3,7 @@ import path from 'path'
 import matter from 'gray-matter'
 
 import { MDXRemote } from 'next-mdx-remote/rsc'
-
+export const runtime = edge
 export async function generateStaticParams() {
     const files = fs.readdirSync(path.join('blogs'))
 
