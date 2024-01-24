@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function featureSection() {
+export default function FeatureSection() {
   return (
     
     <section aria-labelledby="feature-five" id="feature-five" className="overflow-y-auto bg-white lg:h-screen my-6">

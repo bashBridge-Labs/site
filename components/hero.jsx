@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function hero() {
+export default function Hero() {
   return (
     <section>
       <div className="relative items-center w-full px-5 py-24 mx-auto overflow-hidden md:px-12 lg:px-16 max-w-7xl">
