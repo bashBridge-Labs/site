@@ -44,7 +44,7 @@ export default function Home() {
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 ">
             {blogs.map((blog) => (
               
-                <div
+                <div key={blog.meta.title}
                   class="group  rounded-2xl p-5 duration-200 hover:bg-stone-100/80 hover:scale-105"
                   href="#"
                 >

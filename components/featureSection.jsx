@@ -97,7 +97,7 @@ export default function FeatureSection() {
                 <div className="mt-2 text-base text-gray-500">
                   Banking-as-a-service (BaaS) has made it possible for any company
                   to easily offer financial services tailored to customers&apos;’
-                  specific needs. Hear from a range of businesses on how they're
+                  specific needs. Hear from a range of businesses on how they&apos;re
                   using BaaS in radically different ways.
                 </div>
               </li>
@@ -164,7 +164,7 @@ export default function FeatureSection() {
                 <div className="mt-2 text-base text-gray-500">
                   Banking-as-a-service (BaaS) has made it possible for any company
                   to easily offer financial services tailored to customers&apos;
-                  specific needs. Hear from a range of businesses on how they're
+                  specific needs. Hear from a range of businesses on how they&apos;re
                   using BaaS in radically different ways.
                 </div>
               </li>
