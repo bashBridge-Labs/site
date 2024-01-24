@@ -45,7 +45,7 @@ export default function FeatureSection() {
                 </div>
                 <div className="mt-2 text-base text-gray-500">
                   Competing in the $5 trillion global ecommerce market requires an
-                  international presence that doesn’t get lost in translation.
+                  international presence that doesn&apos;t get lost in translation.
                   Join us as we traverse the globe to explore the many benefits of
                   offering localized, optimized payment experiences that are
                   achievable in minutes, not months.
@@ -62,7 +62,7 @@ export default function FeatureSection() {
                 </div>
                 <div className="mt-2 text-base text-gray-500">
                   Join Lexingtøn Themes engineers and designers for a technical
-                  look at Lexingtøn Themes Apps. You’ll hear directly from the
+                  look at Lexingtøn Themes Apps. You&apos;ll hear directly from the
                   makers, get a full developer demo, and leave the session with
                   everything you need to get started.
                 </div>
@@ -80,7 +80,7 @@ export default function FeatureSection() {
                   To achieve global net zero emissions by 2050, we need not only
                   to reduce emissions but also remove huge amounts of carbon from
                   the atmosphere and oceans. Learn more about Lexingtøn Themes
-                  Climate’s work to build the world’s largest carbon removal
+                  Climate&apos;s work to build the world&apos;s largest carbon removal
                   coalition and invest in the most promising early-stage
                   solutions.
                 </div>
@@ -96,7 +96,7 @@ export default function FeatureSection() {
                 </div>
                 <div className="mt-2 text-base text-gray-500">
                   Banking-as-a-service (BaaS) has made it possible for any company
-                  to easily offer financial services tailored to customers’
+                  to easily offer financial services tailored to customers&apos;’
                   specific needs. Hear from a range of businesses on how they're
                   using BaaS in radically different ways.
                 </div>
@@ -112,7 +112,7 @@ export default function FeatureSection() {
                 </div>
                 <div className="mt-2 text-base text-gray-500">
                   Competing in the $5 trillion global ecommerce market requires an
-                  international presence that doesn’t get lost in translation.
+                  international presence that doesn&apos;t get lost in translation.
                   Join us as we traverse the globe to explore the many benefits of
                   offering localized, optimized payment experiences that are
                   achievable in minutes, not months.
@@ -129,7 +129,7 @@ export default function FeatureSection() {
                 </div>
                 <div className="mt-2 text-base text-gray-500">
                   Join Lexingtøn Themes engineers and designers for a technical
-                  look at Lexingtøn Themes Apps. You’ll hear directly from the
+                  look at Lexingtøn Themes Apps. You&apos;ll hear directly from the
                   makers, get a full developer demo, and leave the session with
                   everything you need to get started.
                 </div>
@@ -147,7 +147,7 @@ export default function FeatureSection() {
                   To achieve global net zero emissions by 2050, we need not only
                   to reduce emissions but also remove huge amounts of carbon from
                   the atmosphere and oceans. Learn more about Lexingtøn Themes
-                  Climate’s work to build the world’s largest carbon removal
+                  Climate&apos;s work to build the world&apos;s largest carbon removal
                   coalition and invest in the most promising early-stage
                   solutions.
                 </div>
@@ -163,7 +163,7 @@ export default function FeatureSection() {
                 </div>
                 <div className="mt-2 text-base text-gray-500">
                   Banking-as-a-service (BaaS) has made it possible for any company
-                  to easily offer financial services tailored to customers’
+                  to easily offer financial services tailored to customers&apos;
                   specific needs. Hear from a range of businesses on how they're
                   using BaaS in radically different ways.
                 </div>

@@ -8,8 +8,8 @@ export default function Footer() {
     <footer className="bg-gray-900 text-zinc-300">
       <div className="md:flex md:justify-between md:items-center sm:px-12 px-4 bg-[#ffffff19] py-7">
         <h1 className='lg:text-2xl text-3xl md:mb-0 mb-6 lg:leading-normal font-medium
-      md:w-2/5'><span className='text-teal-400'>BashBridge Labs: </span> "Empowering Innovation, Elevating Solutions:
-         Your Success, Our Code"
+      md:w-2/5'><span className='text-teal-400'>BashBridge Labs: </span> Empowering Innovation, Elevating Solutions:
+         Your Success, Our Code
         </h1>
         <div>
           <input type="text" placeholder='Enter Your ph. no' className='text-gray-800

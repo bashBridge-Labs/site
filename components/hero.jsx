@@ -14,7 +14,7 @@ export default function Hero() {
                 <p className="max-w-xl mt-4 text-base tracking-tight text-gray-600">
                   Use this paragraph to share information about your company or
                   products. Make it engaging and interesting, and showcase your
-                  brand's personality. Thanks for visiting our website!
+                  brand&apos;s personality. Thanks for visiting our website!
                 </p>
               </div>
               <div className="flex flex-col items-center justify-center gap-3 mt-10 lg:flex-row lg:justify-start">
@@ -37,7 +37,7 @@ export default function Hero() {
                 className="inline-flex items-center justify-center w-full px-4 py-2 text-sm font-semibold text-white rounded-full active:bg-tangaroa-800 active:text-tangaroa-300 bg-tangaroa-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-tangaroa-900 focus:outline-none group hover:bg-tangaroa-700 hover:text-tangaroa-100 lg:w-auto"
                 href="/overview"
               >
-                Explora all pages
+                Explore all pages
                 <svg
                   className="w-5 h-5 ml-3"
                   fill="none"
