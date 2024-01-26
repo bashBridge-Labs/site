@@ -14,18 +14,14 @@ export default function page() {
       <div className="mb-3 text-2xl text-center dark:text-black">
         We would be happy to hear from you, please fill in the form below or mail us your requirements on
       </div>
-      {/* <div className='w-full h-[100vh]'>
-
-        <div data-tf-live="01HN2F5DC5TG8C2W65SDCSXFEH"></div><script src="//embed.typeform.com/next/embed.js"></script>
-
-      </div> */}
-      <div className='mb-3 text-center'>
-        <div data-tf-live="01HN3JGAFAT4XRQDC6A13J5S11" >
-          </div>
+      <div>
+      <div data-tf-live="01HN3KARCVRNVRGT5B1G8MGDN7">
+        </div>
         <script src="//embed.typeform.com/next/embed.js">
-          </script>
+        </script>
       </div>
-
+     
+      
     </>
 
 
