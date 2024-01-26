@@ -11,13 +11,13 @@ export default function Navbar() {
   const navLinks = [
     { text: "Home", href: "/" },
     { text: "About", href: "/about" },
-    { text: "Services", href: "/services" },
+    { text: "Blogs", href: "https://dibakarbera01.blogspot.com" },
     { text: "Contact", href: "/contact" },
   ];
 
   return (
     <nav className=" w-full  z-999 ">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 mb-2 ">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-10 py-4 mb-2 ">
         <div className="flex item-center justify-between ">
           <div className="flex items-center">
             <div className="flex">
