@@ -39,16 +39,16 @@ export default function Navbar() {
                 Services
               </a>
               <a
-                href="/"
+                href="https://dibakarbera01.blogspot.com"
                 className="text-white hover:bg-white hover:text-black rounded-lg p-1"
               >
                 Blog
               </a>
               <a
-                href="/"
+                href="/contact"
                 className="text-white hover:bg-white hover:text-black rounded-lg p-1"
               >
-                Contact
+                Contact Us
               </a>
             </div>
           </div>
