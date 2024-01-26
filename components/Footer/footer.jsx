@@ -1,5 +1,4 @@
 import ItemsContainer from "./ItemsContainer";
-import SocialIcons from "./SocialIcons";
 import Link from "next/link";
 import { InstagramLogoIcon } from "@radix-ui/react-icons";
 import { TwitterLogoIcon } from "@radix-ui/react-icons";
