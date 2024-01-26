@@ -6,7 +6,6 @@ export default function Home() {
 <main className="max-w-7xl mx-auto">
 <Hero/>
 <FeatureSection/>
-<Footer/>
 </main>
   );
 }

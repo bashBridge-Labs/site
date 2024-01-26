@@ -1,5 +1,6 @@
 "use client";
 import React, { useState } from "react";
+import Link from "next/link";
 
 export default function Navbar() {
   const [navOpen, setNavOpen] = useState(false);
@@ -7,54 +8,40 @@ export default function Navbar() {
     setNavOpen(!navOpen);
   };
 
+  const navLinks = [
+    { text: "Home", href: "/" },
+    { text: "About", href: "/about" },
+    { text: "Services", href: "/services" },
+    { text: "Contact", href: "/contact" },
+  ];
+
   return (
-    <nav className="bg-zinc-900">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
+    <nav className=" w-full  z-999 ">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 mb-2 ">
         <div className="flex item-center justify-between ">
           <div className="flex items-center">
             <div className="flex">
-              <a href="/" className="text-white">
+              <a href="/" className="text-black">
                 BashBridge Labs
               </a>
             </div>
           </div>
           <div className="hidden md:block">
             <div className="ml-4 flex items-center space-x-4">
-              <a
-                href="/"
-                className="text-white hover:bg-white hover:text-black rounded-lg p-1"
-              >
-                Home
-              </a>
-              <a
-                href="/"
-                className="text-white hover:bg-white hover:text-black rounded-lg p-1"
-              >
-                About
-              </a>
-              <a
-                href="/"
-                className="text-white hover:bg-white hover:text-black rounded-lg p-1"
-              >
-                Services
-              </a>
-              <a
-                href="/"
-                className="text-white hover:bg-white hover:text-black rounded-lg p-1"
-              >
-                Blog
-              </a>
-              <a
-                href="/"
-                className="text-white hover:bg-white hover:text-black rounded-lg p-1"
-              >
-                Contact
-              </a>
+              {navLinks.map((link) => (
+                <Link
+                  key={link.text}
+                  href={link.href}
+                  className="text-zinc-800 hover:bg-zinc-100 hover:text-blue-400 rounded px-2 py-1 duration-200"
+                >
+                  {link.text}
+                </Link>
+              ))}
             </div>
           </div>
           <div className="md:hidden items-center">
             <button
-              className="inline-flex items-center justify-center p-2 rounded-md text-white hover:text-white focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white"
+              className="inline-flex items-center justify-center p-2 rounded-md text-black hover:text-blue-400  duration-200"
               onClick={toggleNavbar}
             >
               {navOpen ? (
@@ -94,37 +81,17 @@ export default function Navbar() {
       </div>
       {navOpen && (
         <div className="md:hidden">
-          <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
-            <a
-              href="/"
-              className="text-white block hover:bg-white hover:text-black rounded-lg p-2"
-            >
-              Home
-            </a>
-            <a
-              href="/"
-              className="text-white block hover:bg-white hover:text-black rounded-lg p-2"
-            >
-              About
-            </a>
-            <a
-              href="/"
-              className="text-white block hover:bg-white hover:text-black rounded-lg p-2"
-            >
-              Services
-            </a>
-            <a
-              href="/"
-              className="text-white block  hover:bg-white hover:text-black rounded-lg p-2"
-            >
-              Blog
-            </a>
-            <a
-              href="/"
-              className="text-white block  hover:bg-white hover:text-black rounded-lg p-2"
-            >
-              Contact
-            </a>
+          <div className="px-3 w-[90%] mx-auto rounded-xl flex flex-col">
+          {navLinks.map((link) => (
+                <Link
+                  key={link.text}
+                  href={link.href}
+                  className="text-zinc-600 hover:bg-stone-100  rounded-xl px-6 py-6 duration-200 text-lg hover:text-blue-400"
+                >
+                  {link.text}
+                </Link>
+              ))}
+
           </div>
         </div>
       )}

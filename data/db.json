@@ -1,0 +1,25 @@
+{
+  "title": "We Build to Scale.",
+  "littleIntro": "We are building a development and design agency that helps you scale your next big dream. We start from scratch and work with you till the end.",
+  "heroButton1": "Contact Us",
+  "heroButton2": "Our Services",
+  "features": {
+    "featureSectionTitle": "We Build to Scale",
+
+    "featureSectionSubtitle": "You are not your mistakes, you are not your struggles, and you are here NOW with the power to shape your day and your future",
+    "featureSectionButton1": "Contact Us",
+    "featureSectionButton2": "Our Services",
+    "featuresList": [
+      {
+        "icon": "❖",
+        "title": "Tools for every stack",
+        "description": "Competing in the $5 trillion global ecommerce market requires an international presence..."
+      },
+      {
+        "icon": "❖",
+        "title": "Prebuilt integrations",
+        "description": "Join Lexingtøn Themes engineers and designers for a technical look at Lexingtøn Themes Apps..."
+      }
+    ]
+  }
+}
