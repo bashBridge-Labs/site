@@ -73,7 +73,7 @@ export default function Page() {
             <div className="bg-white rounded-xl shadow-lg p-8 text-gray-600 md:w-284">
               {isFormSubmitted ? (
                 <div className="text-center text-green-500">
-                  <p>Thanks for reaching out us ! We've received your message at BashBridge Labs. Our team is reviewing it and will respond soon.</p>
+                  <p>Thanks for reaching out us ! We&apos;ve received your message at BashBridge Labs. Our team is reviewing it and will respond soon.</p>
                 </div>
               ) : (
                 <form onSubmit={handleSubmit} className="flex flex-col space-y-4 ">
