@@ -4,7 +4,7 @@ import Link from "next/link";
 import { EnvelopeClosedIcon, HomeIcon, MobileIcon, InstagramLogoIcon, TwitterLogoIcon, LinkedInLogoIcon } from '@radix-ui/react-icons';
 import React from 'react';
 
-export default function page() {
+export default function Page() {
   const [isFormSubmitted, setIsFormSubmitted] = useState(false);
   async function handleSubmit(event) {
     event.preventDefault();
