@@ -24,7 +24,7 @@ export default function Hero() {
                   {jsonData.heroButton1}
                 </a>
                 <a
-                  href="/"
+                  href="/service"
                   className="inline-flex items-center justify-center text-sm  text-black duration-200 hover:text-blue-500"
                 >
                   {jsonData.heroButton2}
