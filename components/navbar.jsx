@@ -10,7 +10,7 @@ export default function Navbar() {
 
   const navLinks = [
     { text: "Home", href: "/" },
-    { text: "About", href: "/about" },
+    { text: "Service", href: "/service" },
     { text: "Blogs", href: "https://dibakarbera01.blogspot.com" },
     { text: "Contact", href: "/contact" },
   ];
