@@ -39,7 +39,7 @@ export default function Page() {
             Contact Us
           </h2>
           <p class="mb-4 text-gray-500 text-lg">
-            Facing tech issues or need details about our Business plan? We're
+            Facing tech issues or need details about our Business plan? We&apos;re
             here to help!
           </p>
           <p class="mb-8 lg:mb-16  text-gray-500 text-lg">
