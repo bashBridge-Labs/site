@@ -26,7 +26,7 @@ export default function FeatureSection() {
                     {jsonData.features.featureSectionButton1}
                   </a>
                   <a
-                    href="#_"
+                    href="/service"
                     className="inline-flex items-center justify-center text-sm  text-black duration-200 hover:text-blue-500 "
                   >
                     {jsonData.features.featureSectionButton2}
