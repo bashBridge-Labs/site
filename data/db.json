@@ -4,21 +4,36 @@
   "heroButton1": "Contact Us",
   "heroButton2": "Our Services",
   "features": {
-    "featureSectionTitle": "We Build to Scale",
+    "featureSectionTitle": "Innovation at the Core",
 
-    "featureSectionSubtitle": "You are not your mistakes, you are not your struggles, and you are here NOW with the power to shape your day and your future",
+    "featureSectionSubtitle": "We are committed to staying at the forefront of technology. We are passionate about exploring innovative solutions, ensuring your software is not just up-to-date but ahead of the curve.",
     "featureSectionButton1": "Contact Us",
     "featureSectionButton2": "Our Services",
     "featuresList": [
       {
         "icon": "❖",
-        "title": "Tools for every stack",
-        "description": "Competing in the $5 trillion global ecommerce market requires an international presence..."
+        "title": "Customized Solutions",
+        "description": "Tailor-made software solutions crafted to meet the unique needs and challenges of your business. We collaborate closely with our clients to understand their objectives and deliver bespoke applications that drive success."
       },
       {
         "icon": "❖",
-        "title": "Prebuilt integrations",
-        "description": "Join Lexingtøn Themes engineers and designers for a technical look at Lexingtøn Themes Apps..."
+        "title": "Agile Development Methodology",
+        "description": "Embracing an Agile approach, we prioritize flexibility and responsiveness in our development process. This allows us to adapt to changing requirements efficiently and deliver high-quality software within timelines."
+      },
+      {
+        "icon": "❖",
+        "title": "Collaborative Client Engagement",
+        "description": "Communication is key. We believe in building strong, collaborative relationships with our clients. Regular updates, transparent processes, and client involvement at every stage ensure that we meet and exceed expectations."
+      },
+      {
+        "icon": "❖",
+        "title": "Scalable Solutions",
+        "description": "Our software solutions are designed with scalability in mind. As your business grows, our systems are ready to scale alongside you, ensuring seamless performance and adaptability to evolving requirements."
+      },
+      {
+        "icon": "❖",
+        "title": "Continuous Support",
+        "description": "Our relationship doesn't end with project delivery. We provide ongoing support and maintenance to ensure your software operates at its best. Our team is available to address any issues, implement updates, and assist with future enhancements."
       }
     ]
   }

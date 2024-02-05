@@ -2,7 +2,7 @@ import React from "react";
 import jsonData from "@/data/db";
 export default function Hero() {
   return (
-    <section className="">
+    <section >
 
       <div className="relative items-center w-full px-5 py-24 mx-auto overflow-hidden md:px-12 lg:px-16 max-w-7xl ">
         <div className="grid items-start grid-cols-1 gap-12 md:grid-cols-2">
@@ -12,14 +12,14 @@ export default function Hero() {
                 <p className="text-5xl font-medium tracking-tight text-black sm:text-6xl">
                   {jsonData.title}
                 </p>
-                <p className="max-w-xl mt-4 text-base tracking-tight text-gray-600">
+                <p className="max-w-xl mt-4 text-base text-gray-500">
                   {jsonData.littleIntro}
                 </p>
               </div>
               <div className="flex flex-col items-center justify-center gap-3 mt-10 lg:flex-row lg:justify-start">
                 <a
                   href="#_"
-                  className="items-center justify-center w-full px-6 py-2.5 text-center text-white bg-[#4860FF] hover:scale-105 duration-200 hover:bg-zinc-600   rounded-full inline-flex  lg:w-auto border-2 border-stone-200 "
+                  className="items-center justify-center w-full px-8 py-2.5 text-center text-white bg-[#3b57ff] hover:scale-105 duration-300 hover:bg-[#2141ff]   rounded-full inline-flex  lg:w-auto border-2 border-stone-200 "
                 >
                   {jsonData.heroButton1}
                 </a>

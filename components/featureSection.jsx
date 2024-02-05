@@ -3,7 +3,7 @@ import jsonData from "@/data/db";
 
 export default function FeatureSection() {
   return (
-    <section className="overflow-y-auto  lg:h-screen md:mt-24 bg-transparent">
+    <section className="overflow-y-auto no-scrollbar   lg:h-screen md:mt-24 bg-transparent mb-20">
 
       <div className="px-8   mx-auto lg:px-16 max-w-7xl md:px-12 xl:px-36 lg:flex">
         <div className="lg:w-1/2 md:py-2">
@@ -14,14 +14,14 @@ export default function FeatureSection() {
                   <p className="text-2xl font-medium tracking-tight text-black sm:text-4xl">
                     {jsonData.features.featureSectionTitle}
                   </p>
-                  <p className="max-w-xl mt-4 text-lg tracking-tight text-gray-600">
+                  <p className="max-w-xl mt-4 text-base text-gray-500">
                     {jsonData.features.featureSectionSubtitle}
                   </p>
                 </div>
                 <div className=" flex-col items-center justify-center gap-3 mt-10 lg:flex-row lg:justify-start hidden md:flex">
                   <a
                     href="/contact"
-                    className="items-center justify-center w-full px-6 py-2.5 text-center  text-white bg-[#4860FF] hover:scale-105 duration-200 hover:bg-[#324dff]   rounded-full   lg:w-auto border-2 border-stone-200 "
+                    className="items-center justify-center w-full px-8 py-2.5 text-center  text-white bg-[#3b57ff] hover:scale-105 duration-200 hover:bg-[#2141ff]   rounded-full   lg:w-auto border-2 border-stone-200 "
                   >
                     {jsonData.features.featureSectionButton1}
                   </a>
