@@ -18,7 +18,7 @@ export default function Hero() {
               </div>
               <div className="flex flex-col items-center justify-center gap-3 mt-10 lg:flex-row lg:justify-start">
                 <a
-                  href="#_"
+                  href="/contact"
                   className="items-center justify-center w-full px-8 py-2.5 text-center text-white bg-[#3b57ff] hover:scale-105 duration-300 hover:bg-[#2141ff]   rounded-full inline-flex  lg:w-auto border-2 border-stone-200 "
                 >
                   {jsonData.heroButton1}
