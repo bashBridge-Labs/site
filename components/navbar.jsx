@@ -12,6 +12,7 @@ export default function Navbar() {
     { text: "Home", href: "/" },
     { text: "Service", href: "/service" },
     { text: "Blogs", href: "https://dibakarbera01.blogspot.com" },
+    {text:"Team", href:"/team"},
     { text: "Contact", href: "/contact" },
   ];
 
