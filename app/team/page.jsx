@@ -324,7 +324,7 @@ export default function page() {
                 </div>
 
 
-                <a class="col-span-full lg:col-span-1 group flex flex-col justify-center text-center rounded-xl p-4 md:p-6 border border-dashed border-gray-200 hover:shadow-sm dark:border-gray-700" href="#">
+                <a class="col-span-full lg:col-span-1 group flex flex-col justify-center text-center rounded-xl p-4 md:p-6 border border-dashed border-gray-200 hover:shadow-sm dark:border-gray-700" href="https://forms.gle/iLtniNPrQRdq5CWR8">
                     <h3 class="text-lg text-gray-800 dark:text-gray-900">
                         We are hiring!
                     </h3>
