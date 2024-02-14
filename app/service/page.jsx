@@ -100,7 +100,7 @@ export default function Page() {
 
               <div>
                 <h3 class="text-lg font-semibold text-gray-800 dark:text-gray-900">
-                  How does our's pricing work?
+                  How does our&apos;s pricing work?
                 </h3>
                 <p class="mt-2 text-gray-600 dark:text-gray-900">
                   Our subscriptions are tiered. Understanding the task at hand and ironing out the wrinkles is key.
@@ -122,7 +122,7 @@ export default function Page() {
                   Do you offer discounts?
                 </h3>
                 <p class="mt-2 text-gray-600 dark:text-gray-900">
-                  We've built in discounts at each tier for teams. The time has come to bring those ideas and plans to life.
+                  We&apos;ve built in discounts at each tier for teams. The time has come to bring those ideas and plans to life.
                 </p>
               </div>
 
