@@ -152,7 +152,7 @@ export default function Page() {
 
                         <div class="mt-2 sm:mt-6">
                             <p class="text-gray-800 dark:text-gray-900">
-                                " The best one I've ever come across. "
+                                " The best one I&apos;ve ever come across. "
                             </p>
                         </div>
 
