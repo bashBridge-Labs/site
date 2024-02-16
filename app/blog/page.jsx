@@ -19,7 +19,7 @@ export default function page() {
                                     Studio by Preline
                                 </h3>
                                 <p class="mt-3 text-gray-600 dark:text-gray-400">
-                                    Produce professional, reliable streams easily leveraging Preline's innovative broadcast studio
+                                    Produce professional, reliable streams easily leveraging Preline&apos;s innovative broadcast studio
                                 </p>
                                 <p class="mt-4 inline-flex items-center gap-x-1 text-blue-600 decoration-2 hover:underline font-medium">
                                     Read more
