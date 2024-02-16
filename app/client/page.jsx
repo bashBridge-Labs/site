@@ -119,7 +119,7 @@ export default function Page() {
 
                         <div class="mt-2 sm:mt-6">
                             <p class="text-gray-800 dark:text-gray-900">
-                                " Truly great template and costumer support. "
+                                &quot;Truly great template and costumer support.&quot;
                             </p>
                         </div>
 
@@ -152,7 +152,7 @@ export default function Page() {
 
                         <div class="mt-2 sm:mt-6">
                             <p class="text-gray-800 dark:text-gray-900">
-                                " The best one I&apos;ve ever come across. "
+                                &quot;The best one I&apos;ve ever come across.&quot;
                             </p>
                         </div>
 
@@ -185,7 +185,7 @@ export default function Page() {
 
                         <div class="mt-2 sm:mt-6">
                             <p class="text-gray-800 dark:text-gray-900">
-                                " This is a truly beautiful template. "
+                                &quot;This is a truly beautiful template.&quot;
                             </p>
                         </div>
 
@@ -244,7 +244,7 @@ export default function Page() {
 
                         <div class="mt-2 sm:mt-6">
                             <p class="text-gray-800 dark:text-gray-900">
-                                " There one theme that you want. "
+                                &quot;There one theme that you want.&quot;
                             </p>
                         </div>
 
@@ -286,7 +286,7 @@ export default function Page() {
 
                         <div class="mt-2 sm:mt-6">
                             <p class="text-gray-800 dark:text-gray-900">
-                                " Great design and thorough documentation. "
+                                &quot;Great design and thorough documentation.&quot;
                             </p>
                         </div>
 
